@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anuj1512
-- 👀 I’m interested in Data science, Machine learning
-- 🌱 I’m currently learning Pandas and Excel automation
+- 👋 Hi, I’m @anuj1512, coding in Python language
+- 👀 I’m interested in Software development, Data science, Machine learning
+- 🌱 I’m having hands on experience in Pandas and Excel automation
 - 💞️ I’m looking to collaborate on Automation using python
 
 <!---
