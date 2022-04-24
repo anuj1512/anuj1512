@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuj1512, coding in Python language
+- 👋 Hi, I’m Anuj, coding in Python language
 - 👀 I’m interested in Software development, Data science, Machine learning
 - 🌱 I’m having hands on experience in Pandas and Excel automation
 - 💞️ I’m looking to collaborate on Automation using python
