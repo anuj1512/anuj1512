@@ -60,6 +60,12 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" alt="Anuj Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj1512&show_icons=true&hide_border=true" />
 
-<br />
 
+<br>
+
+<a href="https://github.com/anuj1512?tab=overview">
+<img align="center" alt="Anuj's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj1512&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj1512&theme=radical" alt="More Anuj Stats" /></p>
+</a>
 
