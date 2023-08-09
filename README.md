@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height= "40" alt="Tableau for Data Visualization: Introduction" src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/1493012"></code>
 <code><img height= "40" alt="Machine Learning & Data Analytics" src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/1502853"></code>
 <code><img height= "40" alt="Complete Guide to Excel 365: Validating, Cleaning, & Performing Lookups on Data" src="https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/1492086"></code>
-<code><a target="_blank" href="https://www.credly.com/badges/426b4e9e-f343-49b6-b93d-bdd6f58a1a5b/public_url"><img height= "40" alt="BCSS 5G Initial Tuning and Optimization Fundamental Assessment" src="https://images.credly.com/size/220x220/images/0edc1ca0-4683-45f8-9fcc-aa2bc62bf61c/5G_Tuning___Optimization_Fundamental_2022_badge.png"></a></code>
+
 <code><a target="_blank" href="https://www.credly.com/badges/3cde5f0d-39f3-404a-ba8d-4ff2bef780a1/public_url"><img height= "40" alt="MOAI Digital Academy Fundamental Badge" src="https://images.credly.com/size/220x220/images/33f5f0eb-edfc-4f2a-ad08-e136638705b9/MOAI_-600-600.png"></a></code>
 
 
